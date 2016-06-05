@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mvp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/MVP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

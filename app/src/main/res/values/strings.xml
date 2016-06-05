@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnnoMVP</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_username">Enter UserName</string>
+    <string name="login" >Login</string>
+    <string name="empty_username">Please enter username</string>
+    <string name="empty_password">Please enter password</string>
+    <string name="min_password">Password must be 6 character long</string>
+</resources>
