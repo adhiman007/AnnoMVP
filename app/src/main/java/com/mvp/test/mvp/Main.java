@@ -22,10 +22,4 @@ public interface Main {
 
     @View
     void onPasswordError(int resId);
-
-    @View
-    void showDialog();
-
-    @View
-    void hideDialog();
 }
